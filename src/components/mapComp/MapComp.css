@@ -1,0 +1,9 @@
+.leaflet-popup-close-button{
+    display:none;
+}
+.leaflet-popup-content{
+    margin: 4px;
+}
+.leaflet-popup-content a:hover{
+    filter: brightness(1.2);
+}
